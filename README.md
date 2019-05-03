@@ -1,7 +1,7 @@
 #### [HIRE US](http://vrgsoft.net/)
 
 # CombineView
-<img src="https://github.com/VRGsoftUA/FlipView/blob/master/ezgif.com-video-to-gif-2.gif" width="270" height="480" />
+<img src="https://github.com/VRGsoftUA/CombineView/blob/master/Sample.jpg" width="270" height="480" />
 
 # Usage
 
