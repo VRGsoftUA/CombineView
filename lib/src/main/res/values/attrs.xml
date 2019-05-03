@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaskedView">
+        <attr name="mvCorners" format="dimension" />
+        <attr name="mvType" format="enum">
+            <enum name="two" value="1" />
+            <enum name="four" value="2" />
+        </attr>
+        <attr name="mvDirection" format="enum">
+            <enum name="top" value="1" />
+            <enum name="bottom" value="2" />
+            <enum name="left" value="3" />
+            <enum name="right" value="4" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CombineView">
+        <attr name="cvCorners" format="dimension" />
+        <attr name="cvType" format="enum">
+            <enum name="two" value="1" />
+            <enum name="four" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
