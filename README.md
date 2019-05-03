@@ -16,7 +16,7 @@ allprojects {
 }
 
 dependencies {
-    compile 'com.github.VRGsoftUA:CombineView:1.0.1'
+   implementation 'com.github.VRGsoftUA:CombineView:0.1'
 }
 ```
 2. You need to implement two generic interfaces:
